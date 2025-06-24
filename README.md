@@ -1,4 +1,4 @@
-# NoFoU - Offline tool to check who is following you back on Instagram
+# NoFoU - Offline tool to check who's not following you back on Instagram
 
 ### Requirements
 
