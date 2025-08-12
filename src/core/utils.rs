@@ -1,4 +1,4 @@
-use std::{env, fs::{self, metadata, File}, io::{self, Write}};
+use std::{env, fs::{self, File}, io::{self, Write}};
 
 pub fn filter_from_entry(input: &str) -> Option<(String, String)> {
     let parts: Vec<&str> = input.split(" - ").collect();
